@@ -1,6 +1,6 @@
-# Voiss Digital
+# Voiss Software
 
-**Voiss Digital** é especialista em criar soluções digitais que ampliam conexões e aumentam a presença das marcas. Nossos principais serviços incluem:
+Especialista em criar soluções digitais que ampliam conexões e aumentam a presença das marcas. Nossos principais serviços incluem:
 
 - **Desenvolvimento Web & Mobile**
 - **Aplicações Web**
@@ -15,9 +15,9 @@ Saiba mais em [voiss.digital](https://voiss.digital)
 
 ---
 
-# Voiss Digital
+# Voiss Software
 
-**Voiss Digital** specializes in creating digital solutions that amplify connections and enhance brand presence. Our core services include:
+Specializes in creating digital solutions that amplify connections and enhance brand presence. Our core services include:
 
 - **Web & Mobile Development**
 - **Web Applications**
