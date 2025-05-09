@@ -1,4 +1,4 @@
-# 🚀 Voiss Software
+# Voiss Software
 
 **Tecnologia sob medida para resultados reais.**  
 Aplicações modernas, escaláveis e focadas em performance e conversão.
@@ -8,7 +8,7 @@ Aplicações modernas, escaláveis e focadas em performance e conversão.
 ## 🧠 Sobre a Voiss
 
 A **Voiss Software** desenvolve soluções digitais com foco em **resultados**, **automação** e **eficiência operacional**.  
-Atendemos empresas que precisam escalar com estabilidade e inteligência — no agronegócio, comércio, setor educacional e serviços.
+Atendemos empresas e equipes que precisam escalar com estabilidade, segurança e inteligência.
 
 Criamos sistemas web/mobile com backend robusto, arquitetura escalável, integração de APIs e automações personalizadas.  
 Também oferecemos sites institucionais em WordPress com alto desempenho, SEO técnico e total autonomia de gestão via CMS.
@@ -61,22 +61,22 @@ Também oferecemos sites institucionais em WordPress com alto desempenho, SEO t�
 ## 📂 Projetos em Destaque
 
 - **Sites Institucionais (CMS)** – WordPress + Elementor com foco em SEO e autonomia  
-- **Simulador de Confinamento de Gado** – Aplicativo web/mobile com relatórios técnicos  
-- **Voiss WhatsApp Bot** – Atendimento automatizado via n8n + integração com Google Sheets  
-- **Sistema Agro Fence** – Plataforma de controle zootécnico e financeiro para pecuária
+- **Simulador Financeiro** – Aplicativo web/mobile com relatórios técnicos em PDF  
+- **Voiss WhatsApp Bot** – Atendimento automatizado via n8n + integração com planilhas  
+- **Sistema de Gestão Personalizado** – Plataforma para controle de operações e indicadores
 
 ---
 
 ## 🤝 Nosso Compromisso
 
 Trabalhamos para entregar **resultados reais, mensuráveis e escaláveis**.  
-Cada linha de código é pensada para **automatizar**, **converter** e **gerar impacto** no seu negócio.
+Cada linha de código é pensada para **automatizar**, **converter** e **gerar impacto**.
 
 ---
 
 ## 📫 Contato
 
-🌐 Site: [https://voiss.software](https://voiss.software)  
+🌐 Site: [https://voiss.digital](https://voiss.digital)  
 ✉️ E-mail: contato@voiss.software
 
 ---
@@ -85,9 +85,7 @@ Cada linha de código é pensada para **automatizar**, **converter** e **gerar i
 
 ---
 
----
-
-# 🚀 Voiss Software (ENGLISH)
+# Voiss Software (ENGLISH)
 
 **Technology tailored for real results.**  
 Modern, scalable applications focused on performance and conversion.
@@ -96,11 +94,11 @@ Modern, scalable applications focused on performance and conversion.
 
 ## 🧠 About Voiss
 
-**Voiss Software** creates digital solutions with a focus on **results**, **automation**, and **operational efficiency**.  
-We serve businesses that need to scale intelligently and reliably — in agribusiness, commerce, education, and services.
+**Voiss Software** creates digital solutions focused on **results**, **automation**, and **operational efficiency**.  
+We support businesses and teams looking to scale securely and intelligently.
 
-We develop robust web/mobile systems with scalable architecture, custom API integrations, and automation.  
-We also deliver institutional websites using WordPress + Elementor, with strong performance and total CMS control.
+We develop robust web/mobile systems with scalable architecture, API integrations, and tailored automations.  
+We also deliver institutional websites using WordPress + Elementor, with strong performance and full CMS control.
 
 ---
 
@@ -116,11 +114,11 @@ We also deliver institutional websites using WordPress + Elementor, with strong 
 - Scalable architecture (serverless preferred)  
 - Modern, responsive, and conversion-driven UI/UX  
 - Full-Stack development (JavaScript & Python)  
-- Secure, stable systems with ongoing support  
+- Secure, stable systems with continuous support  
 
 ### ⚙️ API Integration & Automation
 - Native/public API integrations (WhatsApp, payments, data)  
-- Automation with bots, webhooks, and spreadsheets  
+- Automation with bots, webhooks, and smart spreadsheets  
 - Full compatibility across devices and browsers  
 
 ### 🔍 SEO, Caching & Performance
@@ -130,9 +128,9 @@ We also deliver institutional websites using WordPress + Elementor, with strong 
 - Smart caching and CDN usage  
 
 ### 📚 Scalability & Enablement
-- Full and clear technical documentation  
-- Team onboarding and training  
-- Scalable, version-controlled codebase  
+- Clear and complete technical documentation  
+- Custom training for teams  
+- Structured, scalable codebase  
 - Automated deployment with GitHub Actions  
 
 ---
@@ -150,22 +148,22 @@ We also deliver institutional websites using WordPress + Elementor, with strong 
 ## 📂 Featured Projects
 
 - **Institutional Websites (CMS)** – WordPress + Elementor focused on SEO and autonomy  
-- **Cattle Feedlot Simulator** – Web/mobile app with PDF technical reports  
-- **Voiss WhatsApp Bot** – Automated support via n8n + Google Sheets integration  
-- **Agro Fence System** – Livestock and financial control platform for agribusiness
+- **Financial Simulator** – Web/mobile app with technical PDF reporting  
+- **Voiss WhatsApp Bot** – Automated customer support via n8n + Google Sheets  
+- **Custom Management Platform** – Operation and performance control system
 
 ---
 
 ## 🤝 Our Commitment
 
-We focus on delivering **real, measurable and scalable results**.  
+We focus on delivering **real, measurable, and scalable results**.  
 Every line of code is written to **automate**, **convert**, and **drive impact**.
 
 ---
 
 ## 📫 Contact
 
-🌐 Website: [https://voiss.software](https://voiss.software)  
+🌐 Website: [https://voiss.digital](https://voiss.digital)  
 ✉️ Email: contato@voiss.software
 
 ---
