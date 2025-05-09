@@ -1,4 +1,4 @@
-# 🚀 Voiss Software
+# Voiss Software
 
 **Tecnologia sob medida para resultados reais.**  
 Aplicações modernas, escaláveis e focadas em performance e conversão.
@@ -85,7 +85,7 @@ Cada linha de código é pensada para **automatizar**, **converter** e **gerar i
 
 ---
 
-# 🚀 Voiss Software (ENGLISH)
+# Voiss Software (ENGLISH)
 
 **Technology tailored for real results.**  
 Modern, scalable applications focused on performance and conversion.
